@@ -1,5 +1,1 @@
 line 1
-line 3
-line 4 - i added it from the feature branch
-line 5 - i added it from the master 
-line 6 - i added if from the feature branch
